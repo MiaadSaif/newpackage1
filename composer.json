@@ -1,0 +1,25 @@
+{
+
+    "name": "acaothman/contact",
+    "description": "my package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Acaothman\\Contact\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/",
+            "Acaothman\\Contact\\": "package/contact/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MiaadSaif",
+            "email": "118962191+MiaadSaif@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
