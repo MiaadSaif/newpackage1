@@ -1,6 +1,6 @@
 {
 
-    "name": "acaothman/contactss",
+    "name": "acaothmann/contactss",
     "description": "my package",
     "type": "library",
     "autoload": {
